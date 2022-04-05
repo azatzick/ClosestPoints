@@ -1,4 +1,4 @@
-# ClosestPoints
+# Vermont's Closest Schools
 A divide and conquer algorithm that finds the two closest Vermont public schools.
 The data was collected at: https://geodata.vermont.gov/#data 
 
